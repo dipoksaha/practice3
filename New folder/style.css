@@ -163,6 +163,7 @@ text-align: center;
     color: white;
     background: brown;
     border-radius: 10px;
+    transition:.5s
 }
 .contact li a:hover{
     background: #fff;
