@@ -1,0 +1,178 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.maindiv{
+
+}
+.header{
+background: rgb(255, 237, 74);
+
+position: relative;
+text-align: center;
+padding: 10px;
+}
+.header img{
+    width: 100px;
+    position: relative;
+    right: 450px;
+}
+.contactdiv{
+    display: inline-block;
+    position: relative;
+    left: 350px;
+}
+.contactdiv p {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+}
+.contactdiv i{
+    font-size: 20px;
+    margin-left: 10px;
+    
+}
+.menusection{
+background: black;
+text-align: center;
+}
+.menusection li{
+    display: inline-block;
+    padding: 20px 10px;
+    
+}
+.menusection li a{
+    text-decoration: none;
+    background: white;
+    color: black;
+    padding: 5px 20px;
+    border-radius: 5px;
+    transition: .5s;
+}
+
+.menusection li a:hover{
+    background: #ffed4a;
+    color: black;
+}
+.bgimg{
+    background-image: url(https://www.hubspot.com/hubfs/GettyImages-1177482693.jpg);
+
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+    text-align: center;
+}
+.imgtext   {
+    width: 460px;
+    
+    display: inline-block;
+    position:relative;
+    top: 200px;
+}
+.imgtext h1{
+    font-size: 50px;
+    color: #aaa257;
+}
+.imgtext p{
+    color: #2a212c;
+    font-size: 20px;
+    font-weight: bold;
+}
+/* .imgtext:hover {
+
+} */
+
+.loremtext{
+    text-align: center;
+    background: #e1cde7;
+    padding: 53px 178px;
+    color: #830126;
+}
+.servicearea{
+text-align: center;
+}
+.servicearea h2{
+    background: green;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+}
+.service1{
+    display: inline-block;
+}
+
+.servicex{
+    height: 150px;
+    width: 255px;
+    display: inline-block;
+    padding: 30px 15px;
+    margin: 30px 70px;
+    box-shadow: 1px 1px 8px;
+    border-radius: 3px;
+    background: #ffffff;
+    transition: .7s;
+}
+.servicex:hover{
+    background: orange;
+    color: #2a212c;
+    box-shadow: 10px 10px 50px #63376d;
+
+}
+.serviceall{
+    padding-top: 50px;
+    background: #d3cfcf;
+}
+.team{ 
+    text-align: center;
+
+}
+.team h1{
+padding: 20px 20px;
+}
+.team img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.teamtext{
+    display: inline-block;
+    padding: 20px 20px;
+    width: 300px;
+}
+
+.contact{
+background: rgb(214, 167, 79);
+height: 300px;
+text-align: center;
+}
+.contact li{
+    display: inline-block;
+    
+    padding: 10px;
+    
+   
+    margin: 100px auto;
+}
+.contact li a {
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 13px 20px;
+    color: white;
+    background: brown;
+    border-radius: 10px;
+}
+.contact li a:hover{
+    background: #fff;
+    color: #2a212c;
+}
+.fotter{
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    background: rgb(71, 49, 100);
+}
+
+ 
